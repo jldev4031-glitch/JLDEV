@@ -13,7 +13,8 @@ Tenho interesse em conectar tecnologia e visão de negócio para transformar ide
 | Identificação de oportunidades   | Forte      |
 | Interesse em desenvolvimento web | Forte      |
 | Design e experiência do usuário  | Forte      |
-| Uso de ferramentas de IA         | Forte      |
+
+  |
 | Especificação de requisitos      | Promissora |
 
 ## Tecnologias que conheço
